@@ -1,0 +1,3 @@
+[submodule "React-Address-Book"]
+	path = React-Address-Book
+	url = https://github.com/AutumnGeist/React-Address-Book

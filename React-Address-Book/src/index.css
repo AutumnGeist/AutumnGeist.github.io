@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: aliceblue;
+}
+#searchbar {
+  width: 200px;
+}
+#navbar {
+  background-color: whitesmoke;
+  border: 1px solid gray;
+}
+.nav-link:hover {
+  background-color: darkgray;
+}
+.nav-link {
+  font-weight: bold; 
+  padding: 6%;
+}
+#table {
+  background-color: white;
+}
+thead {
+  border: 1px solid lightgray;
+}
+
