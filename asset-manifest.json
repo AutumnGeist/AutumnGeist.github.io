@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffa6ba34.css",
+    "main.js": "/static/js/main.26751787.js",
+    "static/media/javascript.png": "/static/media/javascript.cae65a84867e9d6ad7bf.png",
+    "static/media/book-search.PNG": "/static/media/book-search.3e414fcd6416ea806777.PNG",
+    "static/media/ivy.jpg": "/static/media/ivy.2f6ecd03c9918dd49226.jpg",
+    "static/media/MarilynHollandResume.pdf": "/static/media/MarilynHollandResume.251dae955ceeb4a67352.pdf",
+    "static/media/mongoDB.png": "/static/media/mongoDB.911c49be5be77b9c1c60.png",
+    "static/media/color-picker.PNG": "/static/media/color-picker.a9777c468f9e631f4595.PNG",
+    "static/media/addressBook.PNG": "/static/media/addressBook.c88d09b9e82027a5cb4b.PNG",
+    "static/media/font-picker.PNG": "/static/media/font-picker.9093b5bf79b389d5e09c.PNG",
+    "static/media/meh1.jpg": "/static/media/meh1.ff7e1be372e0faedb0ef.jpg",
+    "static/media/sticky-notes.PNG": "/static/media/sticky-notes.0880868575929c41dfe8.PNG",
+    "static/media/react-icon.png": "/static/media/react-icon.44319306359c7112276d.png",
+    "static/media/restAPI.png": "/static/media/restAPI.463d08bb88ec187e84c6.png",
+    "static/media/java.png": "/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/node.png": "/static/media/node.38c9d2325fc1dc8faaef.png",
+    "static/media/express.png": "/static/media/express.39a0f4c3d981885c64f8.png",
+    "static/media/to-doList.PNG": "/static/media/to-doList.01d42b167c9d47971ade.PNG",
+    "static/media/bootstrap.png": "/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/css.png": "/static/media/css.409b3a09bb70c51542f8.png",
+    "index.html": "/index.html",
+    "main.ffa6ba34.css.map": "/static/css/main.ffa6ba34.css.map",
+    "main.26751787.js.map": "/static/js/main.26751787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa6ba34.css",
+    "static/js/main.26751787.js"
+  ]
+}
