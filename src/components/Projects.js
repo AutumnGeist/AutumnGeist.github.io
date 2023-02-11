@@ -24,10 +24,12 @@ const Projects = () => {
                 </div>
                 <p className="ps-3">React web app to save and keep track of contact addresses. Utilizes database storage, pagination, and search functionality.</p>
                 <div className="d-flex justify-content-around pb-2">
+                  <a href="https://autumngeist.github.io/React-Address-Book/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
-                    <a href="https://github.com/AutumnGeist/React-Address-Book" target="_blank" rel="noreferrer">
-                      <button type="button" className="btn btn-dark">Source Code</button>
-                    </a>
+                  </a>
+                  <a href="https://github.com/AutumnGeist/React-Address-Book" target="_blank" rel="noreferrer">
+                    <button type="button" className="btn btn-dark">Source Code</button>
+                  </a>
                 </div>
               </div>
           </Container>
