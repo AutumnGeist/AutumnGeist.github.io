@@ -95,7 +95,7 @@ body {
 }
 .black-border {
   border: 3px solid black;
-  box-shadow: 8px 10px rgb(39, 39, 39);
+  box-shadow: 8px 10px rgb(39, 39, 39, 0.8);
   padding: 6% !important;
   color: black;
   background-color: white;
@@ -175,7 +175,7 @@ body {
 .gray-box {
   background-color: dimgray;
   border: 3px solid black;
-  box-shadow: 8px 10px rgb(19, 18, 18);
+  box-shadow: 8px 10px rgb(19, 18, 18, 0.8);
   min-width: 400px;
 }
 

@@ -45,10 +45,12 @@ const Projects = () => {
                 </div>
                 <p className="ps-3">A useful web tool for picking web-safe fonts. Preview different font families and styles, and customize the text and headings.</p>
                 <div className="d-flex justify-content-around pb-2">
+                  <a href="https://autumngeist.github.io/CSS-Font-Picker/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
-                    <a href="https://github.com/AutumnGeist/CSS-Font-Picker" target="_blank" rel="noreferrer">
-                      <button type="button" className="btn btn-dark">Source Code</button>
-                    </a>
+                  </a>
+                  <a href="https://github.com/AutumnGeist/CSS-Font-Picker" target="_blank" rel="noreferrer">
+                    <button type="button" className="btn btn-dark">Source Code</button>
+                  </a>
                 </div>
               </div>
           </Container>
@@ -64,10 +66,12 @@ const Projects = () => {
                 </div>
                 <p className="ps-3 pe-3">A fun web tool for picking CSS colors for design purposes. Select and preview different colors and test color contrast.</p>
                 <div className="d-flex justify-content-around pb-2">
+                  <a href="https://autumngeist.github.io/CSS-Color-Picker/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
-                    <a href="https://github.com/AutumnGeist/CSS-Color-Picker" target="_blank" rel="noreferrer">
-                      <button type="button" className="btn btn-dark">Source Code</button>
-                    </a>
+                  </a>
+                  <a href="https://github.com/AutumnGeist/CSS-Color-Picker" target="_blank" rel="noreferrer">
+                    <button type="button" className="btn btn-dark">Source Code</button>
+                  </a>
                 </div>
               </div>
           </Container>
@@ -83,10 +87,12 @@ const Projects = () => {
                 </div>
                 <p className="ps-3 pe-3">Note-keeping app for creating, saving, and updating short colorful notes. Utilizes the ExpressJS and Mongoose frameworks.</p>
                 <div className="d-flex justify-content-around pb-2">
+                  <a href="https://autumngeist-mongodb-notes-app.cyclic.app/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
-                    <a href="https://github.com/AutumnGeist/MongoDB-Notes-App" target="_blank" rel="noreferrer">
-                      <button type="button" className="btn btn-dark">Source Code</button>
-                    </a>
+                  </a>
+                  <a href="https://github.com/AutumnGeist/MongoDB-Notes-App" target="_blank" rel="noreferrer">
+                    <button type="button" className="btn btn-dark">Source Code</button>
+                  </a>
                 </div>
               </div>
           </Container>
@@ -102,10 +108,12 @@ const Projects = () => {
                 </div>
                 <p className="ps-3 pe-3">A Google book search clone that fetches and displays book data and images from the Google Books API. Features async/await Fetch API.</p>
                 <div className="d-flex justify-content-around pb-2">
+                  <a href="https://autumngeist.github.io/Google-Book-Search/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
-                    <a href="https://github.com/AutumnGeist/Google-Book-Search" target="_blank" rel="noreferrer">
-                      <button type="button" className="btn btn-dark">Source Code</button>
-                    </a>
+                  </a>
+                  <a href="https://github.com/AutumnGeist/Google-Book-Search" target="_blank" rel="noreferrer">
+                    <button type="button" className="btn btn-dark">Source Code</button>
+                  </a>
                 </div>
               </div>
           </Container>
@@ -121,10 +129,12 @@ const Projects = () => {
                 </div>
                 <p className="ps-3 pe-3">A simple to-do list application that utilizes React functional components and Hooks. TO BE REPLACED!</p>
                 <div className="d-flex justify-content-around pb-2">
+                  <a href="https://autumngeist.github.io/Google-Book-Search/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
-                    <a href="https://github.com/AutumnGeist/React-To-Do-List" target="_blank" rel="noreferrer">
-                      <button type="button" className="btn btn-dark">Source Code</button>
-                    </a>
+                  </a>
+                  <a href="https://github.com/AutumnGeist/React-To-Do-List" target="_blank" rel="noreferrer">
+                    <button type="button" className="btn btn-dark">Source Code</button>
+                  </a>
                 </div>
               </div>
           </Container>
