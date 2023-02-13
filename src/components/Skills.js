@@ -18,8 +18,8 @@ import git from '../images/git.png'
 const Skills = () => {
   return (
     <Container fluid id="skills" className="skills content-container2 p-5 d-flex flex-column justify-content-center">
-      <h2 className="pb-5 text-center text-shadow cursive">Technical Skills</h2>      
-      <Row className="d-flex flex-wrap col-gap-1 ps-5 pe-5">
+      <h1 className="pb-5 text-center text-shadow cursive">Technical Skills</h1>      
+      <Row className="d-flex flex-wrap col-gap-1">
         <Col className="align-items-center justify-content-center text-center">
           <Image fluid src={java} alt="java logo" className="skill-img" />
           <p className="p-2">Java</p>
@@ -45,7 +45,7 @@ const Skills = () => {
           <p className="p-2">Bootstrap</p>
         </Col>
       </Row>
-      <Row className="d-flex flex-wrap col-gap-1 ps-5 pe-5">
+      <Row className="d-flex flex-wrap col-gap-1">
         <Col className="text-center justify-content-center align-items-center">
           <Image fluid src={node} alt="NodeJS logo" className="skill-img" />
           <p className="p-2">NodeJS</p>
@@ -71,8 +71,6 @@ const Skills = () => {
           <p className="p-2">Git</p>
         </Col>
       </Row>
-
-      
     </Container>
   )
 }
