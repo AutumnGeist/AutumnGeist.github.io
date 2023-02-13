@@ -47,7 +47,7 @@ body {
 /* header */
 .link {
   text-decoration: none !important;
-  color: white;
+  color: white !important;
 }
 .link:hover {
   color: lightgreen !important;
@@ -88,7 +88,7 @@ body {
 .profilePic {
   border: 2px solid black;
   filter: grayscale(100%);
-  max-width: 375px !important;
+  max-width: 350px !important;
 }
 .profilePic:hover {
   filter: none;
@@ -100,6 +100,7 @@ body {
   color: black;
   background-color: white;
   margin-bottom: 7%;
+  max-width: 90%;
 }
 .green-border {
   background-color: black;

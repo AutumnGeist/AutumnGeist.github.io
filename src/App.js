@@ -12,12 +12,12 @@ import Contact from './components/Contact';
 function App() {
   return (
     <BrowserRouter>
-          <Header />
-          <Home />
-          <About />
-          <Skills />
-          <Projects />
-          <Contact />
+      <Header />
+      <Home />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
     </BrowserRouter>
   );
 }

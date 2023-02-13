@@ -10,24 +10,16 @@ const Header = () => {
         </Navbar.Brand>
         <Nav className="flex-row pe-5">
             <Nav.Item>
-                <Nav.Link>
-                    <Link smooth to="/#about" className="link">About</Link>
-                </Nav.Link>
+                <Nav.Link as={Link} smooth to="/#about" className="link">About</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-                <Nav.Link>
-                    <Link smooth to="/#skills" className="link">Skills</Link>
-                </Nav.Link>
+                <Nav.Link as={Link} smooth to="/#skills" className="link">Skills</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-                <Nav.Link>
-                    <Link smooth to="/#projects" className="link">Projects</Link>
-                </Nav.Link>
+                <Nav.Link as={Link} smooth to="/#projects" className="link">Projects</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-                <Nav.Link>
-                    <Link smooth to="/#contact" className="link">Contact</Link>
-                </Nav.Link>
+                <Nav.Link as={Link} smooth to="/#contact" className="link">Contact</Nav.Link>
             </Nav.Item>
         </Nav>
     </Navbar>
