@@ -127,7 +127,7 @@ const Projects = () => {
                   {/* <p>NodeJS</p>
                   <p>MongoDB</p> */}
                 </div>
-                <p className="ps-3 pe-3">A simple to-do list application that utilizes React functional components and Hooks. TO BE REPLACED!</p>
+                <p className="ps-3 pe-3">A simple to-do list application that utilizes React functional components, hooks, and state toggling.</p>
                 <div className="d-flex justify-content-around pb-2">
                   <a href="https://autumngeist.github.io/Google-Book-Search/" target="_blank" rel="noreferrer">
                     <button type="button" className="btn btn-dark">Live Demo</button>
