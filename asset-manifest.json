@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5439be55.css",
-    "main.js": "/static/js/main.6dca98be.js",
+    "main.js": "/static/js/main.c4db7f11.js",
     "static/media/javascript.png": "/static/media/javascript.cae65a84867e9d6ad7bf.png",
     "static/media/book-search.PNG": "/static/media/book-search.3e414fcd6416ea806777.PNG",
     "static/media/ivy.jpg": "/static/media/ivy.2f6ecd03c9918dd49226.jpg",
     "static/media/MarilynHollandResume.pdf": "/static/media/MarilynHollandResume.251dae955ceeb4a67352.pdf",
     "static/media/mongoDB.png": "/static/media/mongoDB.911c49be5be77b9c1c60.png",
+    "static/media/mybooklist.PNG": "/static/media/mybooklist.cabba7a943c49dc70409.PNG",
     "static/media/color-picker.PNG": "/static/media/color-picker.a9777c468f9e631f4595.PNG",
     "static/media/addressBook.PNG": "/static/media/addressBook.c88d09b9e82027a5cb4b.PNG",
     "static/media/font-picker.PNG": "/static/media/font-picker.9093b5bf79b389d5e09c.PNG",
@@ -22,10 +23,10 @@
     "static/media/css.png": "/static/media/css.409b3a09bb70c51542f8.png",
     "index.html": "/index.html",
     "main.5439be55.css.map": "/static/css/main.5439be55.css.map",
-    "main.6dca98be.js.map": "/static/js/main.6dca98be.js.map"
+    "main.c4db7f11.js.map": "/static/js/main.c4db7f11.js.map"
   },
   "entrypoints": [
     "static/css/main.5439be55.css",
-    "static/js/main.6dca98be.js"
+    "static/js/main.c4db7f11.js"
   ]
 }
