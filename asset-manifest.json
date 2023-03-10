@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5439be55.css",
-    "main.js": "/static/js/main.c94634c4.js",
+    "main.js": "/static/js/main.6dca98be.js",
     "static/media/javascript.png": "/static/media/javascript.cae65a84867e9d6ad7bf.png",
     "static/media/book-search.PNG": "/static/media/book-search.3e414fcd6416ea806777.PNG",
     "static/media/ivy.jpg": "/static/media/ivy.2f6ecd03c9918dd49226.jpg",
@@ -22,10 +22,10 @@
     "static/media/css.png": "/static/media/css.409b3a09bb70c51542f8.png",
     "index.html": "/index.html",
     "main.5439be55.css.map": "/static/css/main.5439be55.css.map",
-    "main.c94634c4.js.map": "/static/js/main.c94634c4.js.map"
+    "main.6dca98be.js.map": "/static/js/main.6dca98be.js.map"
   },
   "entrypoints": [
     "static/css/main.5439be55.css",
-    "static/js/main.c94634c4.js"
+    "static/js/main.6dca98be.js"
   ]
 }
