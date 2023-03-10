@@ -21,7 +21,7 @@ const About = () => {
         <Col sm className="pt-1 d-flex flex-column align-items-center justify-content-center">
           <Container className="black-border">
             <h3 className="pb-3 cursive">About</h3>
-            <p>Hello! My name is Marilyn, and I am a web and software developer from Fairfax, Virginia. I'm a <span className="font-italic">magna cum laude</span> graduate from The Volgenau School of Engineering at George Mason University.</p>
+            <p>Hello! My name is Marilyn, and I am a web and software developer from Fairfax, Virginia. I'm a <span className="font-italic">cum laude</span> graduate from The Volgenau School of Engineering at George Mason University.</p>
             <p>Over the past couple of years, I have worked in the IT industry handling technical support for Geek Squad and Frontier IT. My true passion however lies in coding. I enjoy building full-stack projects to create fun and useful applications! I'm also known for picking up new languages and frameworks quite quickly. </p>
             <p>Recently I've been working on mastering the MERN stack, and learning Java Spring Boot.</p>
           </Container>
